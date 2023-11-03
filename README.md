@@ -1,6 +1,6 @@
 # Heap Overflow
 
-Alberto Miguel Diez - amigud00@estudiantes.unileon.es
+Alberto Miguel Diez - amigud00 [at] estudiantes [d0t] unileon [d0t] es
 
 ## 1. Compilación del programa
 
